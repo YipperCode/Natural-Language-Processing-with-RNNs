@@ -45,3 +45,12 @@
 <p align="left">
   A miércoles 24 de mayo de 2023
 </p>
+
+<table align="left">
+  <td>
+    <a href="https://colab.research.google.com/drive/1MAGFzNS7TbkNTYM7kOZuEOaul1X7e4xx?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  </td>
+  <td>
+    <a target="_blank" href="https://github.com/YipperCode/Natural-Language-Processing-with-RNNs"><img src="https://img.shields.io/badge/Git-Open%20in%20Github-blue" /></a>
+  </td>
+</table>
